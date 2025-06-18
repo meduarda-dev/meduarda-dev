@@ -8,7 +8,7 @@
 
  </div>
  
-( C  | Javascript | HTML | CSS) 🚀
+(Angular | Typescript | HTML | CSS) 🚀
 - 🎓 Computer Science Student @ [UERN](https://portal.uern.br/)
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
