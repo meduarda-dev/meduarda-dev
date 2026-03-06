@@ -1,14 +1,47 @@
-### Hi there! I'm Eduarda
+<h1 align="center">Hello, I'm Eduarda Rocha 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://[www.linkedin.com/in/EduardaRocha-5958a61a9/)](https://br.linkedin.com/in/eduarda-rocha-6b784a259/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@eduardarocha.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meduardarocha97@gmail.com)](mailto:meduardarocha97@gmail.com)
-<div align="left">  
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudarocha81&layout=compact)
+<p align="center">
+  <em>Front-End Developer • Computer Science Student • UI/UX Enthusiast</em>
+</p>
 
- </div>
- 
-(Angular | Typescript | HTML | CSS) 🚀
-- 🎓 Computer Science Student @ [UERN](https://portal.uern.br/)
-- 🌐 Passionate about web development
-- 💡 Love a good challenge
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" alt="girl coding gif" />
+</p>
+
+---
+
+<p align="center">
+  I'm passionate about technology and building clean, accessible and intuitive web interfaces.  
+  Here you’ll find my projects, experiments and studies in Front-End development :)
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:meduardarocha97@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/meduarda-dev">
+    <img src="https://img.shields.io/badge/-GitHub-00AB33?style=flat-square&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🎓 Computer Science student  
+- 💻 Focused on **Front-End Development**  
+- ⚛️ Currently learning **React, JavaScript and modern web technologies**  
+- 🎨 Interested in **UI/UX and accessible interfaces**  
+- 🚀 Building projects to grow as a developer  
+
+---
+
+### 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
+
